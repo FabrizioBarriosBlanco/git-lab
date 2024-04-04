@@ -12,10 +12,11 @@ python
 r=1+1
 print(r)
 ```
+###Lists
 
--[x]Turn on Github pages
--[]Outline my portafolio
--[]Introduce myself to the word
+- [x] Turn on Github pages
+- [ ] Outline my portafolio
+- [ ] Introduce myself to the word
 
 ##References
 
