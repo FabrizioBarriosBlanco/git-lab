@@ -5,6 +5,14 @@
 Git practice laboratory for to learning how to use github
 
 ###Contents
+
+```
+python
+
+r=1+1
+print(r)
+```
+
 ##References
 
 Links
