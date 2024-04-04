@@ -13,6 +13,10 @@ r=1+1
 print(r)
 ```
 
+-[x]Turn on Github pages
+-[]Outline my portafolio
+-[]Introduce myself to the word
+
 ##References
 
 Links
